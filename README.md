@@ -1,2 +1,2 @@
 # hello
-web programming with Javascipt and Python
+web programming with Html and Css
